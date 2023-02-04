@@ -1,0 +1,1 @@
+const names = ['habul', 'babul', 'sabul', 'jabul', 'habul', 'cabul', 'tabul', 'modul', 'habul', 'babul', 'sabul'];
